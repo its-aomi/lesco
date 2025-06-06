@@ -7,4 +7,4 @@ tags: post
 categories: sample-posts
 ---
 
-This is a small sample blog post.
+This is a small sample blog post. 
